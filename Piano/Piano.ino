@@ -1,0 +1,96 @@
+//Piano(right:#;left:b)
+#define A0  27.500
+#define A0# 29.135
+#define bB0 29.135
+#define B0  30.868
+#define C0  32.703
+#define C0# 34.648
+#define bD0 29.135
+#define D0  36.708
+#define D0# 38.891
+#define bE0 38.891
+#define E0  41.203
+#define F0  43.654
+#define F0# 46.249
+#define bG0 46.249
+#define G0  48.999
+#define G0# 51.913
+#define bA1 51.913
+
+#define A1  55.000
+#define A1# 58.270
+#define bB1 58.270
+#define B1  61.735
+#define C1  65.406
+#define C1# 69.296
+#define bD1 69.296
+#define D1  73.416
+#define D1# 77.782
+#define bE1 77.782
+#define E1  82.407
+#define F1  87.307
+#define F1# 92.499
+#define bG1 92.499
+#define G1  97.999
+#define G1# 103.826
+#define bA2 103.826
+
+#define A2  110.000
+#define A2# 116.541
+#define bB2 116.541
+#define B2  123.471
+#define C2  130.813
+#define C2# 138.591
+#define bD2 138.591
+#define D2  146.832
+#define D2# 155.563
+#define bE2 155.563
+#define E2  164.814
+#define F2  176.614
+#define F2# 184.997
+#define bG2 184.997
+#define G2  195.998
+#define G2# 207.652
+#define bA3 207.652
+
+#define A3  220.000
+#define A3# 233.082
+#define bB3 233.082
+#define B3  246.942
+#define C3  261.626
+#define C3# 277.183
+#define bD3 277.183
+#define D3  293.665
+#define D3# 311.127
+#define bE3 311.127
+#define E3  329.628
+#define F3  349.228
+#define F3# 369.994
+#define bG3 369.994
+#define G3  391.995
+#define G3# 415.305
+#define bA4 415.305
+
+#define A4  440.000
+#define A4# 466.164
+#define bB4 466.164
+#define B4  493.883
+#define C4  523.251
+#define C4# 554.365
+#define bD4 554.365
+#define D4  587.330
+#define D4# 622.254
+#define bE4 622.254
+#define E4  659.255
+#define F4  698.456
+#define F4# 739.989
+#define bG4 739.989
+#define G4  783.991
+#define G4# 830.609
+#define bA5 830.609
+
+#define A5  880.000
+
+#define A6  1760.000
+
+#define A7  3520.000
